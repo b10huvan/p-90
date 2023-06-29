@@ -1,0 +1,27 @@
+body {
+    background-color: plum;
+}
+
+#output {
+    background-color: paleturquoise;
+    border-radius: 10px;
+    border-top: 10px solid purple;
+    padding: 10px;
+    float: none;
+}
+
+#checkButton {
+    margin-top: 10px;
+}
+
+label {
+    font-size: 20px;
+}
+
+#sendButton {
+    width: 25%;
+}
+
+h3 {
+    color: rgb(27, 80, 240);
+}
